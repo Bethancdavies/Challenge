@@ -61,6 +61,7 @@
 }
 
 /* Begin styling the report items here! */
+/* no media queries added as the items scale down appropriately with flex-wrap and centering content to match design request */
 .reports {
   display: flex;
   justify-content: center;
