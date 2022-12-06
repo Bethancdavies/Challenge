@@ -4,7 +4,7 @@
   "description": "A professional front-end template for building fast, robust, and adaptable web apps or sites.",
   "license": "MIT",
   "devDependencies": {
-    "http-server": "^0.11.1"
+    "http-server": "^0.11.2"
   },
   "scripts": {
     "start": "http-server ./src"
